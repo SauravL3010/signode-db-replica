@@ -1,0 +1,19 @@
+[{
+  "_id": "markham",
+  "temp_path": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Signode Canada Picktickets\\Markham",
+  "email_archive": "\\Picktickets Email Archive\\Markham",
+  "code_path": "C:\\Users\\0235124\\OneDrive - Signode Industrial Group\\Desktop\\SIGNODE PROJECTS\\SIGNODE CODE\\MARKHAM"
+},{
+  "_id": "surrey",
+  "temp_path": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Signode Canada Picktickets\\Surrey",
+  "email_archive": "\\Picktickets Email Archive\\Surrey",
+  "code_path": "C:\\Users\\0235124\\OneDrive - Signode Industrial Group\\Desktop\\SIGNODE PROJECTS\\SIGNODE CODE\\SURREY"
+},{
+  "_id": "glenview",
+  "temp_path": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Signode Canada Picktickets\\Glenview",
+  "email_archive": "\\Picktickets Email Archive\\Glenview",
+  "code_path": "C:\\Users\\0235124\\OneDrive - Signode Industrial Group\\Desktop\\SIGNODE PROJECTS\\SIGNODE CODE\\GLENVIEW"
+},{
+  "_id": "database",
+  "database": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Picktickets Database"
+}]

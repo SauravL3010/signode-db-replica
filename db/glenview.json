@@ -1,0 +1,129 @@
+[{
+  "_id": "7196608-00",
+  "dateReceived": {
+    "$date": "2021-09-29T16:39:41.950Z"
+  },
+  "originalPrint": true,
+  "emailAttachment": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Picktickets Database\\Picktickets Email Archive\\Glenview\\GLENVIEW_EMAIL_ARCHIVE\\mail50SHE9671.pdf",
+  "shipTo": "Fromagerie BoivinCP 1091",
+  "via": "Purolator",
+  "PO": "K-190239-02",
+  "fileDirectory": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Signode Canada Picktickets\\Glenview\\1-Printed\\7196608-00_Fromagerie BoivinCP 1091_Purolator.pdf",
+  "status": "Printed",
+  "shippedDate": null,
+  "invoicedDate": null,
+  "month": "September-2021",
+  "easyName": "7196608-00_Fromagerie BoivinCP 1091_Purolator"
+},{
+  "_id": "7199284-00",
+  "dateReceived": {
+    "$date": "2021-09-29T16:39:42.030Z"
+  },
+  "originalPrint": true,
+  "emailAttachment": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Picktickets Database\\Picktickets Email Archive\\Glenview\\GLENVIEW_EMAIL_ARCHIVE\\mail50SHE9711.pdf",
+  "shipTo": "Packaging Products IncUnit",
+  "via": "UPS",
+  "PO": "PO00011652",
+  "fileDirectory": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Signode Canada Picktickets\\Glenview\\1-Printed\\7199284-00_Packaging Products IncUni_UPS.pdf",
+  "status": "Printed",
+  "shippedDate": null,
+  "invoicedDate": null,
+  "month": "September-2021",
+  "easyName": "7199284-00_Packaging Products IncUni_UPS"
+},{
+  "_id": "7198584-02",
+  "dateReceived": {
+    "$date": "2021-09-29T16:39:42.056Z"
+  },
+  "originalPrint": true,
+  "emailAttachment": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Picktickets Database\\Picktickets Email Archive\\Glenview\\GLENVIEW_EMAIL_ARCHIVE\\mail50sys0002.pdf",
+  "shipTo": "Norbord Inc.South Hwy",
+  "via": "Purolator",
+  "PO": "PHO19899",
+  "fileDirectory": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Signode Canada Picktickets\\Glenview\\1-Printed\\7198584-02_Norbord Inc.South Hwy_Purolator.pdf",
+  "status": "Printed",
+  "shippedDate": null,
+  "invoicedDate": null,
+  "month": "September-2021",
+  "easyName": "7198584-02_Norbord Inc.South Hwy_Purolator"
+},{
+  "_id": "7197296-01",
+  "dateReceived": {
+    "$date": "2021-09-29T16:39:42.093Z"
+  },
+  "originalPrint": true,
+  "emailAttachment": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Picktickets Database\\Picktickets Email Archive\\Glenview\\GLENVIEW_EMAIL_ARCHIVE\\mail50sys0014.pdf",
+  "shipTo": "Crawford Packaging Inc.115A",
+  "via": "Pick Up",
+  "PO": "PM08666",
+  "fileDirectory": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Signode Canada Picktickets\\Glenview\\1-Printed\\7197296-01_Crawford Packaging Inc.11_Pick Up.pdf",
+  "status": "Printed",
+  "shippedDate": null,
+  "invoicedDate": null,
+  "month": "September-2021",
+  "easyName": "7197296-01_Crawford Packaging Inc.11_Pick Up"
+},{
+  "_id": "7199335-00",
+  "dateReceived": {
+    "$date": "2021-09-29T16:39:42.111Z"
+  },
+  "originalPrint": true,
+  "emailAttachment": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Picktickets Database\\Picktickets Email Archive\\Glenview\\GLENVIEW_EMAIL_ARCHIVE\\mail50sys0014.pdf",
+  "shipTo": "Les Bois Lemelin",
+  "via": "Dicom",
+  "PO": "DAVID",
+  "fileDirectory": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Signode Canada Picktickets\\Glenview\\1-Printed\\7199335-00_Les Bois Lemelin_Dicom.pdf",
+  "status": "Printed",
+  "shippedDate": null,
+  "invoicedDate": null,
+  "month": "September-2021",
+  "easyName": "7199335-00_Les Bois Lemelin_Dicom"
+},{
+  "_id": "24563-01",
+  "dateReceived": {
+    "$date": "2021-09-29T16:39:42.137Z"
+  },
+  "originalPrint": true,
+  "emailAttachment": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Picktickets Database\\Picktickets Email Archive\\Glenview\\GLENVIEW_EMAIL_ARCHIVE\\mail50sys0031.pdf",
+  "shipTo": "02Signode - VancouverUnit",
+  "via": "Fastfrate",
+  "PO": "SEPT 13 JT",
+  "fileDirectory": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Signode Canada Picktickets\\Glenview\\1-Printed\\24563-01_02Signode - VancouverUnit_Fastfrate.pdf",
+  "status": "Printed",
+  "shippedDate": null,
+  "invoicedDate": null,
+  "month": "September-2021",
+  "easyName": "24563-01_02Signode - VancouverUnit_Fastfrate"
+},{
+  "_id": "7199331-00",
+  "dateReceived": {
+    "$date": "2021-09-29T16:39:42.168Z"
+  },
+  "originalPrint": true,
+  "emailAttachment": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Picktickets Database\\Picktickets Email Archive\\Glenview\\GLENVIEW_EMAIL_ARCHIVE\\mail50sys0038.pdf",
+  "shipTo": "Maple Leaf ",
+  "via": "UPS",
+  "PO": "7502248858",
+  "fileDirectory": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Signode Canada Picktickets\\Glenview\\1-Printed\\7199331-00_Maple Leaf _UPS.pdf",
+  "status": "Printed",
+  "shippedDate": null,
+  "invoicedDate": null,
+  "month": "September-2021",
+  "easyName": "7199331-00_Maple Leaf _UPS"
+},{
+  "_id": "7199349-00",
+  "dateReceived": {
+    "$date": "2021-09-29T16:39:42.186Z"
+  },
+  "originalPrint": true,
+  "emailAttachment": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Picktickets Database\\Picktickets Email Archive\\Glenview\\GLENVIEW_EMAIL_ARCHIVE\\mail50sys0038.pdf",
+  "shipTo": "Maple Leaf ",
+  "via": "UPS",
+  "PO": "7502248845",
+  "fileDirectory": "C:\\pickticket_test\\OneDrive - Signode Industrial Group\\Signode Canada Picktickets\\Glenview\\1-Printed\\7199349-00_Maple Leaf _UPS.pdf",
+  "status": "Printed",
+  "shippedDate": null,
+  "invoicedDate": null,
+  "month": "September-2021",
+  "easyName": "7199349-00_Maple Leaf _UPS"
+}]
